@@ -1,3 +1,3 @@
-# Estudos---Pyhton Ciência de dados 2
+# Estudos---Estatística nos dados com Pyhton 
 
-Demais arquivos estão no repositório.
+Nesse repositório contém a parte estatística básica.
