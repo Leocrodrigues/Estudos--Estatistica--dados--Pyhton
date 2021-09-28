@@ -1,2 +1,3 @@
-# Pyhton-DATA-SCIENTIST
-Repositorio de estudos envolvendo dados, nele contém desde comandos básicos a intermédiarios.  
+# Estudos---Pyhton Ciência de dados 2
+
+Demais arquivos estão no repositório.
