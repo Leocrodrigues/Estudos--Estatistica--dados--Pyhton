@@ -1,3 +1,3 @@
 #  Estatística & dados com Pyhton 
 
-Nesse repositório contém análises realizadas através de estatística, contendo tópicos essenciais para realizar análises.
+Nesse repositório contém análises descritivas, e transoformações realizadas através de estatística, contendo fundamentos básicos para extração de insights.
